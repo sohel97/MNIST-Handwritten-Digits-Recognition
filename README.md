@@ -1,6 +1,6 @@
 # Deep Learning with Google Colab
 
-GitHub repository for handwritten digits recognition with Google Colab and Pytorch.
+GitHub repository for handwritten digit recognition with Google Colab and Pytorch.
 
 I'm using [MNIST](http://yann.lecun.com/exdb/mnist/) dataset for training purpose.
 
