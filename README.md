@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition With Google Colab and PyTorch
+# Handwritten Digit Recognition
 
 GitHub repository for handwritten digit recognition with Google Colab and PyTorch.
 
